@@ -1,0 +1,3 @@
+[submodule "BlochSphereVisualiser"]
+	path = BlochSphereVisualiser
+	url = https://github.com/BM7878/BlochSphereVisualiser
